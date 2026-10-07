@@ -1,10 +1,10 @@
-# VitalChain (working title)
+# VitalChain 
 
 **An offline-first health dashboard for astronauts, with a tamper-evident health log.**
 
 NASA International Space Apps Challenge 2026 · Bangladesh · Dhaka
 Challenge: **Create Health Monitoring Software for Astronauts on Space Missions**
-Team: solo, [YOUR NAME]
+Team: Cybernetix_Avenue
 
 > Status: prescreening entry (concept + early prototype). The full challenge statement is published on 28 October 2026, and this project will be aligned to it then.
 
