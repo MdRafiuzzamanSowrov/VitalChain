@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+data/device.key
+data/log.jsonl
+.pytest_cache/
+venv/
+__pycache__/

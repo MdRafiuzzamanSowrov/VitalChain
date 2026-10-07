@@ -1,0 +1,7 @@
+[
+  {"flrID": "sample-1", "beginTime": "2026-01-03T04:12Z", "peakTime": "2026-01-03T04:40Z", "classType": "M1.2"},
+  {"flrID": "sample-2", "beginTime": "2026-01-09T13:05Z", "peakTime": "2026-01-09T13:21Z", "classType": "C3.4"},
+  {"flrID": "sample-3", "beginTime": "2026-01-15T22:50Z", "peakTime": "2026-01-15T23:10Z", "classType": "X1.1"},
+  {"flrID": "sample-4", "beginTime": "2026-01-22T09:18Z", "peakTime": "2026-01-22T09:33Z", "classType": "C1.0"},
+  {"flrID": "sample-5", "beginTime": "2026-01-27T17:44Z", "peakTime": "2026-01-27T18:02Z", "classType": "M3.6"}
+]
